@@ -1,5 +1,10 @@
-## Hi there 👋
+## Čaves 👋
 
+## 📝 O mně
+Jmenuji se Luboš Hošek, je mi 20 let a pocházím z Rakovníka. Mám za sebou maturitu ze Střední průmyslové školy Emila Kolbena v oboru Informatika. Nyní žiji v Brně, kde studuji na **FIT VUT**.
+
+## 💻 Moje programátorská cesta
+Jsem začínající programátor s vášní pro technologie a chuť učit se novým věcem. V současnosti rozšiřuji své znalosti v oblasti softwarového vývoje. .
 <!--
 **hosekL/hosekL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
